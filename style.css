@@ -16,6 +16,7 @@ main {
 
 h1 {
     font-family: 'Dosis', sans-serif;
+    font-weight: normal;
     margin-top: 32px;
     margin-bottom: 16px;
 }
