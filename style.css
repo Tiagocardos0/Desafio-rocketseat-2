@@ -44,6 +44,7 @@ strong {
 
 h1 > span {
     color: #EE24FF;
+    font-weight: bold;
 }
 
 #line {
@@ -64,9 +65,7 @@ a {
     text-decoration: none;
 }
 
-footer > img {
-    position: absolute;
+footer img {
     display: block;
     width: 100vw;
-    bottom: 0;
 }
